@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.xcyj1818.cn/sitemap.xml
